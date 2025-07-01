@@ -2,6 +2,7 @@
 
 [![build-status-image]][build-status]
 [![pypi-version]][pypi]
+[![codeql-image]][codeql]
 
 Import SQLAlchemy models from json/csv or export db data to json/csv.
 
@@ -70,3 +71,6 @@ Before contributing please read our [contributing guidelines](CONTRIBUTING.md).
 [build-status]: https://github.com/SergeiVElfimov/sqlalchemy-data-manager/actions/workflows/python-package.yml
 [pypi-version]: https://img.shields.io/pypi/v/sqlalchemy-data-manager.svg
 [pypi]: https://pypi.org/project/sqlalchemy-data-manager/
+[codeql-image]: https://github.com/SergeiVElfimov/sqlalchemy-data-manager/actions/workflows/codeql.yml/badge.svg
+[codeql]: https://github.com/SergeiVElfimov/sqlalchemy-data-manager/actions/workflows/codeql.yml
+
