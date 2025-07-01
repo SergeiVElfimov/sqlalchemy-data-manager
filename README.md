@@ -73,4 +73,3 @@ Before contributing please read our [contributing guidelines](CONTRIBUTING.md).
 [pypi]: https://pypi.org/project/sqlalchemy-data-manager/
 [codeql-image]: https://github.com/SergeiVElfimov/sqlalchemy-data-manager/actions/workflows/codeql.yml/badge.svg
 [codeql]: https://github.com/SergeiVElfimov/sqlalchemy-data-manager/actions/workflows/codeql.yml
-
