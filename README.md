@@ -1,5 +1,8 @@
 # SQLAlchemy data manager
 
+[![build-status-image]][build-status]
+[![pypi-version]][pypi]
+
 Import SQLAlchemy models from json/csv or export db data to json/csv.
 
 ## Examples
@@ -62,3 +65,8 @@ csv_manager.export_data() # Export data to csv
 ## Contributing
 
 Before contributing please read our [contributing guidelines](CONTRIBUTING.md).
+
+[build-status-image]: https://github.com/SergeiVElfimov/sqlalchemy-data-manager/actions/workflows/python-package.yml/badge.svg
+[build-status]: https://github.com/SergeiVElfimov/sqlalchemy-data-manager/actions/workflows/python-package.yml
+[pypi-version]: https://img.shields.io/pypi/v/sqlalchemy-data-manager.svg
+[pypi]: https://pypi.org/project/sqlalchemy-data-manager/
